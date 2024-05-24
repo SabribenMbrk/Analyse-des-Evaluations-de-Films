@@ -1,0 +1,4 @@
+[debug] > Exec(configuration, None, None)
+[debug] Evaluating tasks: Compile / configuration
+[info] compile
+[debug] > Exec(idea-shell, None, None)
